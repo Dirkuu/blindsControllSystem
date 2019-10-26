@@ -1,0 +1,1 @@
+pio remote --agent raspberrypi run --upload-port raspberrypi.local --force-remote -v
